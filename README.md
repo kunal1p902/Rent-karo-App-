@@ -294,3 +294,4 @@ Fully responsive for:
 "# major_project" 
 "# major_project" 
 "# new_project" 
+"# new_project" 
