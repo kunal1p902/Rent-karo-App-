@@ -289,3 +289,4 @@ Fully responsive for:
 "# rent-karo" 
 "# rent-karo" 
 "# Rent-karo-App-" 
+"# major_project" 
