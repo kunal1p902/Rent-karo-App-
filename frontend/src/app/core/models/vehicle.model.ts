@@ -1,0 +1,32 @@
+export interface Vehicle {
+  _id: string;
+  ownerId: any;
+  name: string;
+  brand: string;
+  model: string;
+  type: string;
+  registrationNumber: string;
+  year: number;
+  fuelType: string;
+  transmission: string;
+  seats: number;
+  color: string;
+  description: string;
+  images: string[];
+  location: string;
+  address?: string;
+  listingType?: 'rent' | 'sale';
+  salePrice?: number;
+  pricePerHour: number;
+  pricePerDay: number;
+  pricePerWeek: number;
+  securityDeposit: number;
+  quantity: number;
+  availableQuantity: number;
+  features: string[];
+  status: 'available' | 'unavailable';
+  rating: number;
+  reviewCount: number;
+  termsAndConditions?: string;
+  createdAt?: string;
+}
