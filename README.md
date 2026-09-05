@@ -286,3 +286,4 @@ Fully responsive for:
 - Multi-language support (Hindi, English)
 "# Rent-karo-App-" 
 "# Rent-karo-App-" 
+"# rent-karo" 
